@@ -1,0 +1,38 @@
+Server
+--------
+Login,
+View All Users and Authorize, 
+View All Datasets,
+View All Datasets By Cluster Chain,
+View All Threat Type Results,
+View All Destination Packets Results.
+
+
+User
+----------
+Register and Login,
+View Your Profile,
+Upload Datasets, 
+Find Threat, 
+Find Threat Type Results By Hash code, 
+Search Datasets, 
+
+
+Members
+----------
+
+Fid	
+duration	
+orig_bytes	
+resp_bytes	
+orig_packets	
+resp_packets	
+in_conv	
+out_conv	
+invel_bpp	
+outvel_pps	
+outvel_bps	
+outvel_bpp	
+Url	
+Status
+Hashcode
